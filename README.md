@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **[]**
 - 🌱 I’m learning **[Coding]**
-- 📫 How to reach me: **[nagarward@gmail.com]**
+- 📫 How to reach me: **[wardnajaar123465@gmail.com]**
 
 ---
 
