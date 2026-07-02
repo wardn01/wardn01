@@ -27,7 +27,7 @@
 
 ## 📫 How to reach me
 
-- 📧 Email: **nagarward@gmail.com**
+- 📧 Email: **wardnajaar123465@gmail.com**
 
 ---
 
