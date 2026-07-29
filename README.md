@@ -83,8 +83,8 @@ Full-Stack Developer passionate about building scalable web applications and int
   <a href="https://github.com/wardn01/technion-final-project">
     <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=wardn01&repo=technion-final-project&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000" alt="Technion Final Project" />
   </a>
-  <a href="https://github.com/wardn01/AzureProject">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=wardn01&repo=AzureProject&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000" alt="Azure Project" />
+  <a href="https://github.com/wardn01/azureproject">
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=wardn01&repo=azureproject&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000" alt="Azure Project" />
   </a>
 </p>
 <p align="center">
